@@ -1,0 +1,6 @@
+# Screenshots (too large for git)
+# Cloned repos
+repos/
+# OS files
+.DS_Store
+Thumbs.db
