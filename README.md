@@ -1,5 +1,13 @@
 # Linux Window Managers — Dotfile Evaluation
 
+<p>
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square">
+<img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white">
+</p>
+
+<img src="showcase/screenshots/ml4w.jpg" alt="Dotfile showcase screenshot" width="640">
+
 Systematic evaluation of Hyprland and KDE Plasma dotfile repositories. Cloned, examined, graded.
 
 ## What's Here
